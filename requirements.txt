@@ -1,0 +1,9 @@
+langchain 
+langchain-community  
+langchain-core 
+langchain-classic 
+langchain-openai
+mysqlclient
+python-dotenv
+fastapi
+uvicorn
